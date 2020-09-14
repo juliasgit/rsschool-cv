@@ -1,2 +1,2 @@
 # rsschool-cv
-CV repo | Git &amp; Markdown task
+https://juliasgit.github.io/rsschool-cv/cv
